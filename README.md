@@ -1,6 +1,6 @@
 # Modul-Window
 My First Modul Window!
-in This project i learn What is modul Window and how To use it with HTML Css Ans Js,
-i learn How To Remove Classes and add New ones With Js ,
-and i learn How To Hide Modul With Just The Keybord or just pressing in screen.
-i have so much Fun. 😆
+In This project i learned What is modul Window and how To use it with the technologies HTML/CSS Ans JavaScript,
+I learned How To Remove Classes and add New ones With JavaScript ,
+and i learn How To Hide Modul With Just The Keyboard or just pressing in screen.
+I had so much fun 😁 I'm sorry for my bad English, I'm in the process of learning it.
